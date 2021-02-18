@@ -51,3 +51,15 @@ R
 "src/动态规划/Solution0887.java,c\8\c847f81faf24c477b5a4013365ba9bc31f1a7f06
 O
 src/剑指offer/Solution19.java,4\4\44848cba5295c501c98c9258c7670c2c4e07e3f5
+R
+"src/每日一题/Solution0995.java,1\d\1d164eae314414532f4f106c73bcc662e2127a5b
+_
+/src/动态规划/石子游戏/Solution0877.java,6\c\6c0a25f854078b9cd710873f5e865d44df68e739
+_
+/src/动态规划/石子游戏/Solution1140.java,4\0\4062b946f34a4cc15f7f835b4032f1b570e6b46f
+_
+/src/动态规划/石子游戏/Solution1406.java,2\a\2a9ee6f16b49cfa92f11b9d7c35dd4ec63e027e2
+_
+/src/动态规划/石子游戏/Solution0486.java,a\a\aa45821a94b14ca805e508e6d4521a76b67e98fb
+_
+/src/动态规划/石子游戏/Solution0464.java,e\0\e0bc3d62ffeef348da0f60a95a6dca4cf0c9e740
