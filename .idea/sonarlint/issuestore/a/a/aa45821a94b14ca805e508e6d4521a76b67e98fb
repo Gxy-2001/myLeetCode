@@ -1,3 +1,5 @@
 
-_
-java:S2094	"BRemove this empty class, write its code or make it an "interface".(ω§©8²…ϋ.
+j	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ψ—Ω8ÿκ΄Εϋ.
+v
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(’κμ“8ÿκ΄Εϋ.

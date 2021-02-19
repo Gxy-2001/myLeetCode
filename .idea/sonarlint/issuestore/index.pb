@@ -63,3 +63,5 @@ _
 /src/动态规划/石子游戏/Solution0486.java,a\a\aa45821a94b14ca805e508e6d4521a76b67e98fb
 _
 /src/动态规划/石子游戏/Solution0464.java,e\0\e0bc3d62ffeef348da0f60a95a6dca4cf0c9e740
+R
+"src/每日一题/Solution1004.java,4\6\4679b9cb7fd8d744eac68fd7fd5e2a1baafd17a0

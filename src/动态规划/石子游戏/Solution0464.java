@@ -7,5 +7,8 @@ package 动态规划.石子游戏;
  * @create: 2021-02-18
  */
 public class Solution0464 {
-    //TODO
+    public boolean canIWin(int maxChoosableInteger, int desiredTotal) {
+
+        return false;
+    }
 }
