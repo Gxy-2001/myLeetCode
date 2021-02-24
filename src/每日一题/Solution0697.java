@@ -8,10 +8,10 @@ import java.util.HashMap;
  * @author: Gxy-2001
  * @create: 2021-02-20
  */
-public class Solutoin0697 {
+public class Solution0697 {
     public static void main(String[] args) {
         int[] arr = {1, 2, 2, 3, 1};
-        new Solutoin0697().findShortestSubArray(arr);
+        new Solution0697().findShortestSubArray(arr);
     }
 
     public int findShortestSubArray(int[] nums) {

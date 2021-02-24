@@ -83,3 +83,7 @@ R
 "src/每日一题/Solution1438.java,8\c\8cc168ca7a8df886ac59e314104113d18686d488
 R
 "src/每日一题/Solution0766.java,4\d\4db7f46d146a1e3e88e9b6bd1c41bc64696c98cf
+R
+"src/每日一题/Solution0832.java,c\5\c5175137204ed3101620e3652b1bc3b22bd2d53f
+R
+"src/每日一题/Solution1052.java,d\6\d67ddaff7cba35fa9f50c5f44cfc4c9a6677627f
