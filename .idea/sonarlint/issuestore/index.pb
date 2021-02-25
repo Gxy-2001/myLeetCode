@@ -65,8 +65,6 @@ _
 /src/动态规划/石子游戏/Solution0464.java,e\0\e0bc3d62ffeef348da0f60a95a6dca4cf0c9e740
 R
 "src/每日一题/Solution1004.java,4\6\4679b9cb7fd8d744eac68fd7fd5e2a1baafd17a0
-R
-"src/每日一题/Solutoin0697.java,3\8\38cf78ec0335b81390e5d3b7a9455d01c8c405ca
 L
 src/其他/Solution0371.java,8\e\8ea82c15f2f59942eea5c07ff79e3f0a6e4e6add
 L
@@ -87,3 +85,7 @@ R
 "src/每日一题/Solution0832.java,c\5\c5175137204ed3101620e3652b1bc3b22bd2d53f
 R
 "src/每日一题/Solution1052.java,d\6\d67ddaff7cba35fa9f50c5f44cfc4c9a6677627f
+R
+"src/每日一题/Solution0867.java,1\d\1de7f711ecdc44ed7e88bf10d293807794a892c1
+O
+src/剑指offer/Solution68.java,9\a\9aeb8a1984c48cef3f01572d24044d3afdb12d52
