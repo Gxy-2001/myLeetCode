@@ -105,3 +105,5 @@ R
 "src/每日一题/Solution0303.java,5\7\57ae07377c5aedcf4ee5eb67b34d868fe15f754b
 R
 "src/每日一题/Solution0304.java,e\e\eef81a4eb700e83b7d8976a12b61a7625d2d9eac
+Q
+!src/动态规划/Soution0338.java,4\a\4a93d0e2078a4a38231c8be449baa15c42c20934
