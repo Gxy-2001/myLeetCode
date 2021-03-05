@@ -1,5 +1,6 @@
 package 动态规划;
 
+
 import java.util.Arrays;
 import java.util.Comparator;
 
@@ -11,34 +12,25 @@ import java.util.Comparator;
  */
 public class Solution0354 {
     public int maxEnvelopes(int[][] envelopes) {
-        Arrays.sort(envelopes, new Comparator<int[]>() {
-            @Override
-            public int compare(int[] o1, int[] o2) {
-                return o1[0] == o2[0] ? o2[1] - o1[1] : o1[0] - o2[0];
-            }
-        });
-
-        int[] h = new int[envelopes.length];
-        for (int i = 0; i < h.length; i++) {
-            h[i] = envelopes[i][1];
+        if (envelopes.length == 0) {
+            return 0;
         }
-        return lengthOfLIS(h);
-    }
-
-    public int lengthOfLIS(int[] nums) {
-        int res = 0;
-        int[] dp = new int[nums.length];
-        Arrays.fill(dp, 1);
-        for (int i = 1; i < dp.length; i++) {
+        Arrays.sort(envelopes, (a, b) ->
+                a[0] == b[0] ? b[1] - a[1] : a[0] - b[0]
+        );
+        int[] dp = new int[envelopes.length];
+        for (int i = 0; i < dp.length; i++) {
             for (int j = i - 1; j >= 0; j--) {
-                if (nums[j] < nums[i]) {
+                if (envelopes[i][1] > envelopes[j][1]) {
                     dp[i] = Math.max(dp[i], dp[j] + 1);
                 }
             }
         }
-        for (int i = 0; i < nums.length; i++) {
+        int res = 0;
+        for (int i = 0; i < dp.length; i++) {
             res = Math.max(res, dp[i]);
         }
-        return res;
+        return res + 1;
     }
+
 }
