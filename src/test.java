@@ -9,9 +9,7 @@ import java.util.Map;
  */
 public class test {
     public static void main(String[] args) {
-        Map<Integer, Integer> map = new HashMap<>();
-        map.put(1,1);
-        map.put(1,2);
+        //我来测试一下idea中的git
 
     }
 }
