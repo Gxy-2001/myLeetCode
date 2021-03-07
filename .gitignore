@@ -1,5 +1,6 @@
-/.idea/
-/target/
+/.idea
+/target
+
 每日一题.iml
 
 # Compiled class file
