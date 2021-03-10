@@ -137,3 +137,7 @@ R
 "src/每日一题/Solution0647.java,7\d\7d72923e062781f07b45255565eb0440d7c77f59
 R
 "src/动态规划/Solution0132.java,0\c\0cdf7e0639acde4ae6a1d7b25d52a6b0cd70cb7a
+R
+"src/每日一题/Solution1047.java,1\c\1c5d2a1993c4d83e0b19ed9f4a03c431e8eed573
+R
+"src/每日一题/Solution0005.java,e\a\ea51789a3f5c5b7e3291aad51911d8e22973f8f1
