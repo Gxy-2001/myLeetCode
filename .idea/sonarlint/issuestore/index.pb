@@ -157,3 +157,9 @@ Y
 )src/周赛/week_21_3_14/Solution5703.java,d\9\d9e84788b2fee97fe6db8c08b930f35caa9e659b
 Y
 )src/周赛/week_21_3_14/Solution5704.java,8\f\8f7b2f9cabeba7614d721184dff769ff61d135d0
+R
+"src/每日一题/solution0054.java,8\5\85efd9eaac52898fdfc019833e64a28442e400fa
+R
+"src/每日一题/Solution0054.java,9\2\926d520dca77599e12df9af87c12dab1968f2504
+R
+"src/每日一题/Solution0059.java,3\7\374f7e0bea0a1abea34a26e578584493204f6f3a
