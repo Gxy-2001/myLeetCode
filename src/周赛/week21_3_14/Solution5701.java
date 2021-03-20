@@ -1,4 +1,4 @@
-package 周赛.week_21_3_14;
+package 周赛.week21_3_14;
 
 /**
  * @program: myLeetCode
