@@ -161,3 +161,7 @@ X
 (src/周赛/week21_3_20/Solution5705.java,d\0\d08530729eb97dcbfe09ec27134d25d0e6187e35
 X
 (src/周赛/week21_3_20/Solution5694.java,b\3\b35037df9458bbd68b03075c5d457d607afe6b24
+X
+(src/周赛/week21_3_20/Solution5712.java,b\0\b0d61c980f010a48628bda441b25c051123b723d
+L
+src/贪心/Solution0330.java,4\a\4a771156a13e62bfd25064e1bdc438c579bc38b3
