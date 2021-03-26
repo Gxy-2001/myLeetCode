@@ -9,7 +9,10 @@ import java.util.Map;
  */
 public class test {
     public static void main(String[] args) {
-        //我来测试一下idea中的git
+        int x = 10;
+        int y = 3;
+        double d = 2.0;
 
+        System.out.println(x / y * d + ++y);
     }
 }
