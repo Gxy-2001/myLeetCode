@@ -171,3 +171,5 @@ R
 "src/每日一题/Solution0082.java,b\5\b58974f7db5d4890e58d1980ca9500073863b63c
 R
 "src/每日一题/Solution0061.java,0\2\02d7dd25f9590d2b304eec5cadc200aff38c1410
+\
+,src/数据结构/单调栈/Solution0042.java,d\c\dc4fbf923db328b36e2b5ad7e007a1935a1347a0
