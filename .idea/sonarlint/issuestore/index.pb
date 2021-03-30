@@ -173,3 +173,11 @@ R
 "src/每日一题/Solution0061.java,0\2\02d7dd25f9590d2b304eec5cadc200aff38c1410
 \
 ,src/数据结构/单调栈/Solution0042.java,d\c\dc4fbf923db328b36e2b5ad7e007a1935a1347a0
+R
+"src/每日一题/Solution0042.java,3\5\35477e55e5cc4a8afe6dc7ae8e52d60b655b6f2d
+R
+"src/动态规划/Solution0983.java,1\c\1c08c322511509131578a051fb4d3cf5656415e8
+R
+"src/动态规划/Solution0279.java,1\7\17abcfbb0fa409f4f494d166e9d39b004c8e8fb0
+O
+src/剑指offer/Solution28.java,6\3\63647d4339f57566469520529942e939a3a9c385
