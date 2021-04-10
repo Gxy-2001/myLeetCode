@@ -219,3 +219,7 @@ U
 %src/周赛/week_21_4_5/Solution2.java,e\5\e52068db11c79e01bdc469e69816eb1145b74f21
 U
 %src/周赛/week_21_4_5/Solution3.java,6\2\62b0333268353b20222348622ef959c80d0f4c9d
+O
+src/每日一题/newCoder2.java,6\3\63ed465feb430a0903ccd327b40ead3cf77ab9f2
+O
+src/每日一题/newCoder1.java,a\5\a5635a065c7a87c8231bf0608b60b5acfff353b7
