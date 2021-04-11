@@ -12,7 +12,7 @@ public class test {
         int x = 10;
         int y = 3;
         double d = 2.0;
-
+        System.out.println(Integer.MAX_VALUE+1);
         System.out.println(x / y * d + ++y);
     }
 }
