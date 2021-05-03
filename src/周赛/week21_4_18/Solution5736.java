@@ -39,7 +39,7 @@ public class Solution5736 {
     public static void main(String[] args) {
         int[][] arr = {{1, 2}, {2, 4}, {3, 2}, {4, 1}};
         int[][] arr2 = {{7,10},{7,12},{7,5},{7,4},{7,2}};
-        new test().getOrder(arr2);
+       // new test().getOrder(arr2);
     }
 
     class O implements Comparable<O> {
